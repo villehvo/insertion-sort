@@ -1,0 +1,15 @@
+C:\Users\ville\Desktop\insertion\bin\Debug\net6.0\insertion.exe
+C:\Users\ville\Desktop\insertion\bin\Debug\net6.0\insertion.deps.json
+C:\Users\ville\Desktop\insertion\bin\Debug\net6.0\insertion.runtimeconfig.json
+C:\Users\ville\Desktop\insertion\bin\Debug\net6.0\insertion.dll
+C:\Users\ville\Desktop\insertion\bin\Debug\net6.0\insertion.pdb
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.csproj.AssemblyReference.cache
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.AssemblyInfoInputs.cache
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.AssemblyInfo.cs
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.csproj.CoreCompileInputs.cache
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.dll
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\refint\insertion.dll
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.pdb
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\insertion.genruntimeconfig.cache
+C:\Users\ville\Desktop\insertion\obj\Debug\net6.0\ref\insertion.dll
